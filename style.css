@@ -87,7 +87,7 @@ img {
 }
 
 .quote-container {
-    padding: 16px 512px;
+    padding: 200px 200px;
 }
 
 .quote {
@@ -109,7 +109,7 @@ img {
     background-color: #3882F6;
     justify-content: center;
     color: #F9FAF8;
-    padding: 16px 512px;
+    padding: 16px 250px;
     margin: 0px 52px;
     display: flex;
     gap: 64px;
